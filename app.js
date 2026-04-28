@@ -17,8 +17,8 @@ async function obtenerAlumnos() {
         <td>${alumno.apellido}</td>
         <td>${alumno.email}</td>
         <td>
-          <button onclick="editarAlumno(${alumno.id})">Editar</button>
-          <button onclick="eliminarAlumno(${alumno.id})">Eliminar</button>
+          <button onclick="editarAlumno('${alumno.id}')">Editar</button>
+          <button onclick="eliminarAlumno('${alumno.id}')">Eliminar</button>
         </td>
       </tr>
     `;

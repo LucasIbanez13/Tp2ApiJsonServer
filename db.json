@@ -1,22 +1,13 @@
 {
   "alumnos": [
     {
-      "id": "1",
-      "nombre": "Ana",
-      "apellido": "Gomez",
-      "edad": 20,
-      "email": "ana@gmail.com",
-      "comision": "c1",
-      "activo": true
-    },
-    {
       "nombre": "Lucas Gabriel",
       "apellido": "Ibañez",
-      "edad": "23",
+      "edad": "13",
       "email": "lucaaas00129@gmail.com",
       "comision": "c1",
       "activo": true,
-      "id": "EdLCVWx8FMk"
+      "id": "360-GXIlNqo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
