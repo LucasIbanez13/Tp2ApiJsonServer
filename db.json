@@ -4,10 +4,19 @@
       "nombre": "Lucas Gabriel",
       "apellido": "Ibañez",
       "edad": "13",
-      "email": "lucaaas00129@gmail.com",
+      "email": "Yella00129@gmail.com",
       "comision": "c1",
       "activo": true,
       "id": "360-GXIlNqo"
+    },
+    {
+      "nombre": "Elías",
+      "apellido": "Cuéllar",
+      "edad": "23",
+      "email": "elcondorLabura@gmail.com",
+      "comision": "C 1",
+      "activo": true,
+      "id": "xFj0qJi_yBE"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
